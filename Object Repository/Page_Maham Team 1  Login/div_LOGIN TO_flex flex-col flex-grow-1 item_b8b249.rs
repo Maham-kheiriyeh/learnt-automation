@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_LOGIN TO_flex flex-col flex-grow-1 item_b8b249</name>
+   <tag></tag>
+   <elementGuidId>e900ae95-d3df-48a2-9930-49d790102ccd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fuse-layout']/div/div/div/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-col flex-grow-1 items-center text-white p-16 text-center md:p-128 m:pt-64 md:items-start md:flex-shrink-0 md:flex-1 md:text-left</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fuse-layout&quot;)/div[@class=&quot;flex flex-1 flex-col overflow-hidden relative&quot;]/div[@class=&quot;jss428&quot;]/div[@class=&quot;jss429&quot;]/div[@class=&quot;jss430&quot;]/div[@class=&quot;jss446 flex flex-col flex-1 flex-shrink-0 md:flex-row md:p-0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root flex-grow-1 MuiGrid-item&quot;]/div[@class=&quot;flex flex-col flex-grow-1 items-center text-white p-16 text-center md:p-128 m:pt-64 md:items-start md:flex-shrink-0 md:flex-1 md:text-left&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fuse-layout']/div/div/div/div/div/div/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div/div/div/div</value>
+   </webElementXpaths>
+</WebElementEntity>
